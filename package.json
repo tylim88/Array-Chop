@@ -1,15 +1,15 @@
 {
 	"name": "array-chop",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Split an array into arrays of a specific length",
 	"main": "dist/index.js",
-	"types": "build/index.d.ts",
+	"types": "types/index.d.ts",
 	"scripts": {
 		"install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm i",
 		"tsc": "tsc -p tsconfig.json --noEmit && npm run dummy",
 		"lint": "eslint ./**/*.ts ",
 		"lint-fix": "eslint ./**/*.ts --fix",
-		"build": "rm -rf dist && rm -rf build && babel src --out-dir dist --extensions \".ts\" && tsc -p tsconfig.json",
+		"build": "rm -rf dist && rm -rf types && babel src --out-dir dist --extensions \".ts\" && tsc -p tsconfig.json",
 		"test": "jest",
 		"dummy": ""
 	},
