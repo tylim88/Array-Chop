@@ -1,6 +1,6 @@
 {
 	"name": "chop-array",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "Split an array into arrays of a specific length",
 	"main": "dist/index.js",
 	"types": "build/index.d.ts",

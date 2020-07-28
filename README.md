@@ -1,6 +1,6 @@
-# Chop-Array
+# Array-Chop
 
-[![npm](https://img.shields.io/npm/v/chop-array)](https://www.npmjs.com/package/chop-array) [![GitHub](https://img.shields.io/github/license/tylim88/chop-array)](https://github.com/tylim88/chop-array/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tylim88/chop-array/pulls) [![tylim88](https://circleci.com/gh/tylim88/Chop-Array.svg?style=shield)](<[LINK](https://github.com/tylim88/chop-array#chop-array)>)
+[![npm](https://img.shields.io/npm/v/array-chop)](https://www.npmjs.com/package/array-chop) [![GitHub](https://img.shields.io/github/license/tylim88/array-chop)](https://github.com/tylim88/array-chop/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tylim88/array-chop/pulls) [![tylim88](https://circleci.com/gh/tylim88/Array-Chop.svg?style=shield)](<[LINK](https://github.com/tylim88/array-chop#array-chop)>)
 
 🐤 Split an array into arrays of a specific length.
 
@@ -13,13 +13,13 @@
 ## Installation
 
 ```bash
-npm i chop-array
+npm i array-chop
 ```
 
 ## Usage
 
 ```js
-import chopArray from 'chop-array'
+import chopArray from 'array-chop'
 
 chopArray(['a', 'b', 'c', 'd', 'e', 'f'], 2)
 //=> [['a', 'b'], ['c', 'd'], ['e', 'f']]
