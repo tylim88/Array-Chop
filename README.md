@@ -1,6 +1,6 @@
 # Chop-Array
 
-[![npm](https://img.shields.io/npm/v/chop-array)](https://www.npmjs.com/package/chop-array) [![GitHub](https://img.shields.io/github/license/tylim88/chop-array)](https://github.com/tylim88/chop-array/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tylim88/chop-array/pulls)[![tylim88](https://circleci.com/gh/tylim88/Chop-Array.svg?style=shield)](<[LINK](https://github.com/tylim88/chop-array#chop-array)>)
+[![npm](https://img.shields.io/npm/v/chop-array)](https://www.npmjs.com/package/chop-array) [![GitHub](https://img.shields.io/github/license/tylim88/chop-array)](https://github.com/tylim88/chop-array/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tylim88/chop-array/pulls) [![tylim88](https://circleci.com/gh/tylim88/Chop-Array.svg?style=shield)](<[LINK](https://github.com/tylim88/chop-array#chop-array)>)
 
 🐤 Split an array into arrays of a specific length.
 
