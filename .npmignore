@@ -1,0 +1,12 @@
+CHANGELOG.md
+/.circleci 
+/.github
+/node_modules
+/src
+/build/**/*
+!/build/**/*.ts
+package-lock.json
+.gitignore
+.npmignore
+jest.config.js
+tsconfig.json    
