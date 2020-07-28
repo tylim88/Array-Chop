@@ -31,15 +31,3 @@ chopArray(['a', 'b', 'c', 'd', 'e', 'f', 'foo'], 3)
 ## Acknowledgement
 
 This code repository is replicate of [split-array](https://www.npmjs.com/package/split-array), the core logic, test remain exactly the same. The purpose of this package is to add Typescript support (after failing to contact the original author) and rewrite it with ES6 and Jest.
-
-## Tips & Star
-
-😄 consider star or tipping me if you like this library.
-
-BTC: `1KbpCqzZ6FSfoi1R9obGEVXRHpbJMQQCda`  
-ETH: `0x4DfD790D98F8f3E013E70da51E70B60b953c7e61`  
-LTC: `LXVYLpe9zQ48aGCuBqjLW8xxaBfVBauXST`  
-XRP: `rnftUYRq91TBL6ceK5y3UnFiYBLQMFkZn6`  
-ADA: `Ae2tdPwUPEYxapgJjg9qpg1RhyfBq5vx6ZdWXafNqZihg4rCD7baXhMf7CH`  
-BNB: `0x4DfD790D98F8f3E013E70da51E70B60b953c7e61`  
-[PayPal](https://www.paypal.me/tylim88)

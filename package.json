@@ -1,6 +1,6 @@
 {
-	"name": "chop-array",
-	"version": "0.0.0",
+	"name": "array-chop",
+	"version": "1.0.0",
 	"description": "Split an array into arrays of a specific length",
 	"main": "dist/index.js",
 	"types": "build/index.d.ts",
@@ -15,14 +15,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tylim88/chop-array.git"
+		"url": "git+https://github.com/tylim88/array-chop.git"
 	},
 	"author": "",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/tylim88/chop-array/issues"
+		"url": "https://github.com/tylim88/array-chop/issues"
 	},
-	"homepage": "https://github.com/tylim88/chop-array#readme",
+	"homepage": "https://github.com/tylim88/array-chop#readme",
 	"keywords": [
 		"split",
 		"array",
